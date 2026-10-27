@@ -1,0 +1,19 @@
+# Entornos virtuales
+env/
+venv/
+.env
+
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Archivos de datos pesados crudos (para no saturar GitHub)
+*.zip
+*.dbf
+data/raw/
+*.parquet
+
+# Python cache
+catboost_info/
+__pycache__/
+*.py[cod]
+*$py.class
