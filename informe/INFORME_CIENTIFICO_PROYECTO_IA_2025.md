@@ -1,6 +1,6 @@
 # BRECHA DIGITAL Y VULNERABILIDAD ESCOLAR EN EL PERÚ: UN ENFOQUE DE APRENDIZAJE AUTOMÁTICO ROBUSTO Y EXPLICABILIDAD ALGORÍTMICA (XAI) SOBRE MICRODATOS ENAHO Y ESCALE 2025
 
-**Autor(es):** Estudiantes de Ingeniería de Sistemas  
+**Autor:** William David Ortiz Mamani  
 **Institución:** Universidad Peruana Unión (UPeU)  
 **Curso:** Inteligencia Artificial  
 **Fecha:** Octubre de 2026  
